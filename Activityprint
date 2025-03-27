@@ -1,0 +1,5 @@
+print("Hello World")
+print(4)
+print("Hi \n")
+print("Python", end = "")
+print(7)
